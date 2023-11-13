@@ -1,2 +1,8 @@
 # Estadios
-<iframe src="index.html" height="500" width="500"></iframe>
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="300"
+  height="200"
+  src="index.html">
+</iframe>
